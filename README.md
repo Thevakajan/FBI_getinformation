@@ -26,6 +26,7 @@ $ cd fbi
 # [ Setup ]
 ```
 $ pip2 install -r requirements.txt
+chmod +x fbi.py
 ```
 # [ Running ]
 ```
